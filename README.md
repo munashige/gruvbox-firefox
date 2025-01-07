@@ -1,2 +1,2 @@
 # gruvbox-firefox
-A custom theme for personal use
+Based on several compact themes located within the firefoxcss subreddit.
